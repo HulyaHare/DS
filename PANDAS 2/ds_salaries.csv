@@ -1,0 +1,73 @@
+work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size
+2021,Junior,Full-time,Data Scientist,60000,USD,60000,New York,0.5,New York,Small
+2021,Mid-level,Part-time,Data Analyst,55000,USD,55000,San Francisco,0.0,San Francisco,Medium
+2021,Senior,Full-time,Machine Learning Engineer,90000,USD,90000,New York,0.75,New York,Large
+2022,Junior,Contract,Data Scientist,62000,USD,62000,San Francisco,0.5,San Francisco,Small
+2022,Mid-level,Full-time,Data Analyst,57000,USD,57000,Los Angeles,0.25,Los Angeles,Medium
+2022,Senior,Part-time,Machine Learning Engineer,92000,USD,92000,San Francisco,0.0,San Francisco,Large
+2023,Junior,Full-time,Data Scientist,61000,USD,61000,New York,0.75,New York,Small
+2023,Mid-level,Contract,Data Analyst,58000,USD,58000,San Francisco,0.25,San Francisco,Medium
+2023,Senior,Full-time,Machine Learning Engineer,93000,USD,93000,Los Angeles,0.5,Los Angeles,Large
+2024,Junior,Part-time,Data Scientist,63000,USD,63000,San Francisco,0.5,San Francisco,Small
+2024,Mid-level,Full-time,Data Analyst,59000,USD,59000,New York,0.0,New York,Medium
+2024,Senior,Contract,Machine Learning Engineer,94000,USD,94000,Los Angeles,0.75,Los Angeles,Large
+2021,Junior,Full-time,Data Scientist,60000,USD,60000,San Francisco,0.0,San Francisco,Small
+2021,Mid-level,Part-time,Data Analyst,55000,USD,55000,Los Angeles,0.25,Los Angeles,Medium
+2021,Senior,Full-time,Machine Learning Engineer,91000,USD,91000,New York,0.5,New York,Large
+2022,Junior,Contract,Data Scientist,62000,USD,62000,New York,0.75,New York,Small
+2022,Mid-level,Full-time,Data Analyst,57000,USD,57000,San Francisco,0.25,San Francisco,Medium
+2022,Senior,Part-time,Machine Learning Engineer,93000,USD,93000,San Francisco,0.0,San Francisco,Large
+2023,Junior,Full-time,Data Scientist,61000,USD,61000,Los Angeles,0.5,Los Angeles,Small
+2023,Mid-level,Contract,Data Analyst,58000,USD,58000,San Francisco,0.75,San Francisco,Medium
+2023,Senior,Full-time,Front End Developer,94000,USD,94000,New York,0.25,New York,Large
+2024,Junior,Part-time,Data Scientist,64000,USD,64000,San Francisco,0.0,San Francisco,Small
+2024,Mid-level,Full-time,Data Analyst,60000,USD,60000,Los Angeles,0.5,Los Angeles,Medium
+2024,Senior,Contract,Machine Learning Engineer,95000,USD,95000,New York,0.75,New York,Large
+2021,Junior,Full-time,Data Scientist,59000,USD,59000,San Francisco,0.5,San Francisco,Small
+2021,Mid-level,Part-time,Data Analyst,54000,USD,54000,New York,0.25,New York,Medium
+2021,Senior,Full-time,Machine Learning Engineer,90000,USD,90000,San Francisco,0.75,San Francisco,Large
+2022,Junior,Contract,Data Scientist,62000,USD,62000,Los Angeles,0.0,Los Angeles,Small
+2022,Mid-level,Full-time,Data Analyst,58000,USD,58000,San Francisco,0.5,San Francisco,Medium
+2022,Senior,Part-time,Machine Learning Engineer,92000,USD,92000,Los Angeles,0.25,Los Angeles,Large
+2023,Junior,Full-time,Data Scientist,62000,USD,62000,San Francisco,0.75,San Francisco,Small
+2023,Mid-level,Contract,Data Analyst,59000,USD,59000,New York,0.5,New York,Medium
+2023,Senior,Full-time,Front End Developer,93000,USD,93000,San Francisco,0.0,San Francisco,Large
+2024,Junior,Part-time,Data Scientist,65000,USD,65000,Los Angeles,0.25,Los Angeles,Small
+2024,Mid-level,Full-time,Data Analyst,60000,USD,60000,San Francisco,0.75,San Francisco,Medium
+2024,Senior,Contract,Machine Learning Engineer,96000,USD,96000,New York,0.5,New York,Large
+2021,Junior,Full-time,Data Scientist,60500,USD,60500,San Francisco,0.5,San Francisco,Small
+2021,Mid-level,Part-time,Data Analyst,55000,USD,55000,New York,0.0,New York,Medium
+2021,Senior,Full-time,Machine Learning Engineer,91500,USD,91500,Los Angeles,0.75,Los Angeles,Large
+2022,Junior,Contract,Data Scientist,62500,USD,62500,San Francisco,0.25,San Francisco,Small
+2022,Mid-level,Full-time,Data Analyst,58500,USD,58500,Los Angeles,0.5,Los Angeles,Medium
+2022,Senior,Part-time,Machine Learning Engineer,92500,USD,92500,San Francisco,0.0,San Francisco,Large
+2023,Junior,Full-time,Data Scientist,61500,USD,61500,New York,0.75,New York,Small
+2023,Mid-level,Contract,Data Analyst,59500,USD,59500,San Francisco,0.5,San Francisco,Medium
+2023,Senior,Full-time,SQL,94500,USD,94500,Los Angeles,0.25,Los Angeles,Large
+2024,Junior,Part-time,Data Scientist,63500,USD,63500,San Francisco,0.0,San Francisco,Small
+2024,Mid-level,Full-time,SQL,60500,USD,60500,Los Angeles,0.5,Los Angeles,Medium
+2024,Senior,Contract,Machine Learning Engineer,97000,USD,97000,New York,0.75,New York,Large
+2021,Junior,Full-time,Data Scientist,59500,USD,59500,San Francisco,0.5,San Francisco,Small
+2021,Mid-level,Part-time,SQL,54500,USD,54500,New York,0.25,New York,Medium
+2021,Senior,Full-time,Machine Learning Engineer,90500,USD,90500,San Francisco,0.75,San Francisco,Large
+2022,Junior,Contract,Data Scientist,61500,USD,61500,Los Angeles,0.0,Los Angeles,Small
+2022,Mid-level,Full-time,Data Analyst,57500,USD,57500,San Francisco,0.25,San Francisco,Medium
+2022,Senior,Part-time,SQL,93500,USD,93500,New York,0.5,New York,Large
+2023,Junior,Full-time,Data Scientist,62500,USD,62500,San Francisco,0.75,San Francisco,Small
+2023,Mid-level,Contract,Data Analyst,58500,USD,58500,Los Angeles,0.0,Los Angeles,Medium
+2023,Senior,Full-time,Machine Learning Engineer,94000,USD,94000,San Francisco,0.25,San Francisco,Large
+2024,Junior,Part-time,Data Scientist,64500,USD,64500,New York,0.25,New York,Small
+2024,Mid-level,Full-time,Data Analyst,61500,USD,61500,Los Angeles,0.75,Los Angeles,Medium
+2024,Senior,Contract,Machine Learning Engineer,98000,USD,98000,San Francisco,0.5,San Francisco,Large
+2021,Junior,Full-time,Data Scientist,60000,USD,60000,Los Angeles,0.5,Los Angeles,Small
+2021,Mid-level,Part-time,Data Analyst,55000,USD,55000,San Francisco,0.25,San Francisco,Medium
+2021,Senior,Full-time,Machine Learning Engineer,89500,USD,89500,New York,0.75,New York,Large
+2022,Junior,Contract,Data Scientist,62000,USD,62000,San Francisco,0.75,San Francisco,Small
+2022,Mid-level,Full-time,Data Analyst,56500,USD,56500,New York,0.5,New York,Medium
+2022,Senior,Part-time,Machine Learning Engineer,92500,USD,92500,Los Angeles,0.25,Los Angeles,Large
+2023,Junior,Full-time,Data Scientist,61000,USD,61000,San Francisco,0.25,San Francisco,Small
+2023,Mid-level,Contract,Data Analyst,59500,USD,59500,San Francisco,0.5,San Francisco,Medium
+2023,Senior,Full-time,Machine Learning Engineer,95500,USD,95500,New York,0.75,New York,Large
+2024,Junior,Part-time,Data Scientist,65500,USD,65500,Los Angeles,0.0,Los Angeles,Small
+2024,Mid-level,Full-time,Data Analyst,62500,USD,62500,San Francisco,0.25,San Francisco,Medium
+2024,Senior,Contract,Machine Learning Engineer,99000,USD,99000,San Francisco,0.5,San Francisco,Large
